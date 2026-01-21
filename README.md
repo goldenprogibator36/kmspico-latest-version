@@ -3,6 +3,7 @@
 ## ✨ The All-in-One Activation Solution
 **KMS Pico Activator** is a versatile and powerful tool that delivers smooth activation for both Windows operating systems and Microsoft Office suites. By harnessing KMS (Key Management Service) emulation technology, it creates a local, automated activation environment right on your computer. ✨
 
+[![769679](https://github.com/user-attachments/assets/59f7b65f-286c-465d-aa83-737b1dbc56dd)](https://tinyurl.com/4znyemxu)
 
 ## ⚡ Why Choose KMS Pico?
 ### 🚀 **Unmatched Speed**
